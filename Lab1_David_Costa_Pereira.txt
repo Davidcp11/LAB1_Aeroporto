@@ -1,0 +1,14 @@
+Torre de Controle CABACITA
+Tenha uma otima experiencia
+AUTORIZACOES DE POUSO
+========================================
+FLIGHT  FROM
+
+8086    San Francisco
+1234    Amsterdam
+4444    Londres
+0055    Paris
+
+Situacao da fila
+
+2552    Tokyo
